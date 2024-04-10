@@ -5,13 +5,13 @@
 TensorFlow is an open-source software library developed by Google for numerical computation, large-scale machine learning, and deep learning. 
 It provides a flexible platform for building and deploying powerful machine learning models. [Click here!](https://github.com/tensorflow/tensorflow)
 
-## TensorFlow Key Features:
+## TensorFlow Key Features
 - Machine Learning Focused: TensorFlow offers a wide range of tools and APIs specifically designed for machine learning tasks, including data preparation, model building, training, and deployment.
 - Flexible Architecture: The library supports various programming languages like Python, C++, and Java, allowing developers to choose the language that best suits their needs.
 - High-Level APIs: Keras, a high-level API built on top of TensorFlow, simplifies model building with a user-friendly interface.
 - Production Deployment: TensorFlow offers tools and libraries for deploying trained models in various environments, from servers and mobile devices to web browsers and edge devices.
 
-## Benefits of Using TensorFlow:
+## Benefits of Using TensorFlow
 - Fast Prototyping: Keras and other high-level APIs enable rapid experimentation and model development.
 - Scalability: TensorFlow can handle large datasets and complex models, making it suitable for real-world machine learning applications.
 - Community and Resources: TensorFlow has a vast and active community of developers, researchers, and enthusiasts, providing extensive documentation, tutorials, and support.
