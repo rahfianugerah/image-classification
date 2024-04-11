@@ -1,4 +1,8 @@
 # Rock - Paper - Scissors Image Classification
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)<br>
+![Finish]( https://img.shields.io/badge/Finished_Project-Yes-green)
+![TensorFlow]( https://img.shields.io/badge/TensorFlow-v2.15.0-ff8500)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/rxzv/user-login-register-system/blob/main/LICENSE)
 ![image](https://github.com/rxzv/rpsic/assets/156213717/694cbca1-60dd-47ff-9a87-74efcc559bbb)
 
 ## About TensorFlow
