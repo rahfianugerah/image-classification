@@ -60,9 +60,9 @@
 
 <p align="justify">
   Several publicly available datasets were utilized for this project. 
-  Descriptions and access information for each dataset can be found in the references section (
-  <a href="https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip">Dicoding</a>,
-  <a href="https://www.kaggle.com/datasets/drgfreeman/rockpaperscissors">Kaggle</a> ). These datasets provided the foundation for my exploration of this project.
+  Descriptions and access information for each dataset can be found in the references section
+  (<a href="https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip">Dicoding</a>,
+  <a href="https://www.kaggle.com/datasets/drgfreeman/rockpaperscissors">Kaggle</a>). These datasets provided the foundation for my exploration of this project.
 </p>
 
 
