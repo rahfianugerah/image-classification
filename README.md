@@ -39,7 +39,7 @@
 ![Screenshot 2024-04-10 224109](https://github.com/rxzv/rpsic/assets/156213717/1d095134-c587-448e-852e-b73fb6c57ae3)
 ![Screenshot 2024-04-10 224013](https://github.com/rxzv/rpsic/assets/156213717/cdfef637-6530-4d55-860a-0b1826f7e0ac)
 
-## Special Thanks to Dicoding
+## Special Thanks to <a href="https://www.dicoding.com/">Dicoding</a>
 <img src="https://help.dicoding.com/wp-content/uploads/2021/01/dicoding-edit.jpg"/>
 
 <p align="justify">
