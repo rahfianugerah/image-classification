@@ -1,4 +1,4 @@
-# Rock - Paper - Scissors Image Classification
+# Rock - Paper - Scissors Image Classification using TensorFlow
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)<br>
 ![Finish]( https://img.shields.io/badge/Finished_Project-Yes-green)
 ![TensorFlow]( https://img.shields.io/badge/TensorFlow-v2.15.0-ff8500)
