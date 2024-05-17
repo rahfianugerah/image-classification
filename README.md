@@ -1,4 +1,4 @@
-# Rock - Paper - Scissors Image Classification using TensorFlow
+# Rock - Paper - Scissors Image Classification using TensorFlow with CNN and Adam Optimizer
 
 ![Finish](https://img.shields.io/badge/Finished_Project-Yes-green)
 ![TensorFlow]( https://img.shields.io/badge/TensorFlow-v2.15.0-ff8500)
