@@ -9,3 +9,8 @@
 
   </p>
 </div>
+
+## Project Overview
+<p align="justify">
+The Image Classification System project aims to create an advanced model capable of accurately categorizing images into predefined classes. By employing cutting-edge machine learning techniques, particularly deep learning, this project seeks to achieve exceptional levels of accuracy and generalization.
+</p>
